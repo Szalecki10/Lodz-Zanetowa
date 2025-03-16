@@ -10,3 +10,4 @@ arduino (łódź) odbiera sygnał, dostraja elementy sterujące (silnik i serwo)
 arduino (łódź) wykonuje pomiary (termometr, czujniki odległości) 
 arduino (łódź) przełącza się w tryb nadawczy, wysyła wyniki i wraca do trybu nasłuchiwania
 raspberry (pilot) odbiera wyniki pomiarów i wyświetla je na ekranie OLED.
+Zastosowaliśmy między innymi SPI, onewire
